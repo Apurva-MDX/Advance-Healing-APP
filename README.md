@@ -1,4 +1,4 @@
-# Advance-Healing-APP
+# Advance Healing APP
 
 Mental health has been a huge complication in the world for a long time, especially since
 the COVID-19 pandemic occurred. The purpose of the project is to improve stress
