@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/hingu/Desktop/My Study -Middlesex/Year 3/CST-3990 - Undergraduate Individual Project/Advance Healing/app/src/main/res/layout/activity_main.xml" value="0.144" />
+        <entry key="..\:/Users/hingu/Desktop/My Study -Middlesex/Year 3/CST-3990 - Undergraduate Individual Project/Advance Healing/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/hingu/Desktop/My Study -Middlesex/Year 3/CST-3990 - Undergraduate Individual Project/Advance Healing/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/hingu/Desktop/My Study -Middlesex/Year 3/CST-3990 - Undergraduate Individual Project/Advance Healing/app/src/main/res/layout/fragment_fifth.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/hingu/Desktop/My Study -Middlesex/Year 3/CST-3990 - Undergraduate Individual Project/Advance Healing/app/src/main/res/layout/fragment_first.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/hingu/Desktop/My Study -Middlesex/Year 3/CST-3990 - Undergraduate Individual Project/Advance Healing/app/src/main/res/layout/fragment_forth.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/hingu/Desktop/My Study -Middlesex/Year 3/CST-3990 - Undergraduate Individual Project/Advance Healing/app/src/main/res/layout/fragment_second.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/hingu/Desktop/My Study -Middlesex/Year 3/CST-3990 - Undergraduate Individual Project/Advance Healing/app/src/main/res/layout/fragment_third.xml" value="0.23777173913043478" />
+        <entry key="..\:/Users/hingu/Desktop/My Study -Middlesex/Year 3/CST-3990 - Undergraduate Individual Project/Advance Healing/app/src/main/res/menu/bottom_menu.xml" value="0.2421875" />
       </map>
     </option>
   </component>
