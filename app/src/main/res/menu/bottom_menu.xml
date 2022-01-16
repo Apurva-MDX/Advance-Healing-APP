@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <item android:title="Digital Toys" android:icon="@drawable/ic_fidget_spinner1"/>
+    <item android:title="Meditation" android:icon="@drawable/ic_meditation_1" />
+    <item android:title="Mood Checker" android:icon="@drawable/ic_mood_1"/>
+    <item android:title="Routine Checker" android:icon="@drawable/ic_routine_1"/>
+    <item android:title="Grief Refuge" android:icon="@drawable/ic_grief_1" />
 </menu>
